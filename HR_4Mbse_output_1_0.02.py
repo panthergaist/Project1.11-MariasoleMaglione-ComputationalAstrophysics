@@ -4,7 +4,7 @@ import numpy as np
 
 ### using pandas to read SEVN outputs ###
 
-dtt=pd.read_csv("/home/maglione/SEVNproject/sevn_output_0.01/output_1.csv")
+dtt=pd.read_csv("/home/maglione/SEVNproject/sevn_output_0.02/output_1.csv")
 print(dtt)
 print(dtt.columns)
 
